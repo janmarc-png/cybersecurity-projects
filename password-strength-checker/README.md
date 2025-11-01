@@ -43,7 +43,3 @@ python password_checker_gui.py
    - Red: Weak password
    - Orange: Moderate password
    - Green: Strong password
-
-## License
-
-MIT License
