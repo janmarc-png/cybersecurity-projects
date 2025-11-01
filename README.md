@@ -43,7 +43,6 @@ Scans running system processes for potential keylogger behavior to protect user 
 Each subfolder contains:
 - The project source code (`.py` files or scripts)  
 - A dedicated `README.md` explaining how to use it  
-- Sample output or test data (if applicable)
 
 To clone and explore locally:
 ```bash
