@@ -31,7 +31,7 @@ A simple Python application that detects potentially malicious or phishing URLs 
 | `http://192.168.0.1/login` | Likely Phishing |
 | `https://github.com` | Likely Safe |
 
-## Folder Structurecd /Users/janmarccoloma/Documents/MyProject/phishing-link-detector
+## Folder Structure
 git init
 ```
 cybersecurity-projects/
