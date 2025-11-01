@@ -35,8 +35,8 @@ A simple Python application that evaluates the strength of a user's password bas
 cybersecurity-projects/
 │
 └── password-strength-checker/
-    ├── password_checker.py
     ├── README.md
+    ├── password_checker.py
     ├── requirements.txt
 ```
 
